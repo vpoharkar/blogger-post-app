@@ -1,0 +1,32 @@
+{
+  "name": "blogger-post-app",
+  "version": "1.0.0",
+  "description": "Blog post application that is implemented using angular 2 and NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vpoharkar/blogger-post-app.git"
+  },
+  "keywords": [
+    "Angular",
+    "NodeJS",
+    "Express",
+    "MongoDB"
+  ],
+  "author": "Vaidehi Poharkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vpoharkar/blogger-post-app/issues"
+  },
+  "homepage": "https://github.com/vpoharkar/blogger-post-app#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.3.16"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.8"
+  }
+}
